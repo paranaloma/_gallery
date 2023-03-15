@@ -9,7 +9,5 @@ license_text: Wikipedia
 categories:
   - Εργαλεία
 tags:
-  - pascal
-  - c-language 
-  - basic-language
+  - C
 ---

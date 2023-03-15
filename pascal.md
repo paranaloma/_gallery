@@ -10,6 +10,4 @@ categories:
   - Εργαλεία
 tags:
   - pascal
-  - c-language 
-  - basic-language
 ---
